@@ -105,11 +105,11 @@ TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/ML_Files/17")   # Third tut
 SHORTENER_API = environ.get("SHORTENER_API", "a27e6b177c47ce6a7b22bcbce2235ce66d893ac8") # Shortener API key
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkshortify.com") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "a27e6b177c47ce6a7b22bcbce2235ce66d893ac8")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkshortify.com") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "a27e6b177c47ce6a7b22bcbce2235ce66d893ac8")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "linkshortify.com") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "43200")) # Time gap for two-step verification in seconds (default: 20 minutes)v
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "43200"))    
