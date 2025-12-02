@@ -415,8 +415,8 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
 📌 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ, ᴘʟᴇᴀꜱᴇ ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ & ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ꜰᴏʀ ᴛɪʟʟ ɴᴇxᴛ 12 hours,Direct Files..
 
-📌shortner(token) లింక్ ఎలా ఓపన్ చేయాలి ఈ వీడియో చుడండి
-👉 https://t.me/ML_Files/17
+📌shortner(token) లింక్ ఎలా ఓపన్ చేయాలి ఈ వీడియో చుడండి @ML_Files
+👉 @ML_Files/17
 
 ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴅɪʀᴇᴄᴛ ꜰɪʟᴇs ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ᴛᴀᴋᴇ ᴘʀᴇᴍɪᴜᴍ sᴇʀᴠɪᴄᴇ (ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴠᴇʀɪꜰʏ) Msg - @Mladminbot.</i></b>"""
     
