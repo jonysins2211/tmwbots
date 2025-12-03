@@ -108,7 +108,7 @@ SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkshortify.com") # Short
 SHORTENER_API2 = environ.get("SHORTENER_API2", "a27e6b177c47ce6a7b22bcbce2235ce66d893ac8")  # Shortener API key for second website
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkshortify.com") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "")  
+SHORTENER_API3 = environ.get("SHORTENER_API3", "a27e6b177c47ce6a7b22bcbce2235ce66d893ac8")  
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "linkshortify.com") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "43200")) # Time gap for two-step verification in seconds (default: 20 minutes)v
