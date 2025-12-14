@@ -425,7 +425,7 @@ This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Co
 
 ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ ✓
 
-ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ 12 hours.Direct Fiels enjoy...</i></b>"""
+ɴᴏᴡ ʏᴏᴜ ʜᴀᴠᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ 3 hours.Direct Fiels enjoy...</i></b>"""
 
     SECOND_VERIFICATION_TEXT = """<b><i>👋 ʜᴇʏ {},
 
